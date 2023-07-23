@@ -2,7 +2,7 @@
 Project Title: Stock Tracking App
 
 Project Description: 
-The Stock Tracking App is a C# WinForms application designed to efficiently manage stock inventory and sales for a retail business. Utilizing the Facade design pattern and ADO.NET, the application offers a user-friendly interface and robust functionality to streamline stock monitoring and customer-related tasks.
+The Stock Tracking App is a C# WinForms application designed to manage stock inventory and sales. Utilizing the Facade design pattern and ADO.NET, the application offers a user-friendly interface and robust functionality to streamline stock monitoring and customer-related tasks.
 
 Key Features:
 
